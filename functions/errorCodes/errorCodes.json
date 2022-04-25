@@ -1,0 +1,9 @@
+{
+  "201": "Payment transaction added to Payments table",
+  "299": "Payment rejected with unknown reason",
+  "291": "Not enough balance on card",
+  "292": "Terminal was not found",
+  "293": "Card was not found",
+  "294": "User was not found",
+  "295": "Terminal disabled"
+}
